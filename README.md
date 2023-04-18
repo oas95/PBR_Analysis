@@ -60,7 +60,7 @@ ____________________
 
 ![image](https://github.com/oas95/PBR_Analysis/blob/main/Plots/ValueScoreEPlot.png)
 
--Correlation Coeffecient: -0.328
+- Correlation Coeffecient: -0.328
 
 Value Score vs Final Points
 ____________________
