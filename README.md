@@ -44,20 +44,29 @@ Clone Repository and use Data Set provided for your own analysis!
 ## Key Visuals
 
 Toggleable Table
+____________________
+
 ![image](https://github.com/oas95/PBR_Analysis/blob/main/Plots/Quick_toggleable_Table.png)
 
 RiderPer  vs Top10 placement Plot
+____________________
+
 ![image](https://github.com/oas95/PBR_Analysis/blob/main/Plots/RiderPR_Top10_Plot.png)
 Correlation Coeffecient: 0.855
 
 Value Score by Earnings vs Earnings 
+____________________
+
 ![image](https://github.com/oas95/PBR_Analysis/blob/main/Plots/ValueScoreEPlot.png)
 Correlation Coeffecient: -0.328
 
 Value Score vs Final Points
+____________________
+
 ![image](https://github.com/oas95/PBR_Analysis/blob/main/Plots/ValueScore_FPPlot.png)
 Correlation Coeffecient: NAN
 Correclation Coeffecient(w/ Value Score by Earnings): -0.294
+
 <!-- CONTACT -->
 ## Contact
 
