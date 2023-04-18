@@ -52,6 +52,7 @@ RiderPer  vs Top10 placement Plot
 ____________________
 
 ![image](https://github.com/oas95/PBR_Analysis/blob/main/Plots/RiderPR_Top10_Plot.png)
+
 Correlation Coeffecient: 0.855
 
 Value Score by Earnings vs Earnings 
